@@ -1,4 +1,5 @@
 -- Yet Another Sh*tty Roblox Module Bootstrapper
+-- https://github.com/minecoiii2/yet-another-shitty-roblox-module-bootstrapper
 
 local DEBUG = false
 

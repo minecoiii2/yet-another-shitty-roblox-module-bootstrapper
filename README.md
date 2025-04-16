@@ -19,6 +19,6 @@ bootstrapper:Boot(replicatedStorage.Handlers, {
 
 ## License
 
-Do anything you want with my code, credits not needed
+Do anything you want with my code, credits not needed, i dont even want my name associated with this crap of a module
 
 [UNI](https://choosealicense.com/licenses/unlicense/)
